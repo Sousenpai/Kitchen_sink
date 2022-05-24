@@ -18,13 +18,16 @@
     "react": "17.0.2",
     "react-native": "0.66.0",
     "react-native-gesture-handler": "^1.10.3",
+    "react-native-image-crop-picker": "^0.37.3",
+    "react-native-paper": "^4.12.1",
     "react-native-reanimated": "^2.8.0",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-screens": "^3.8.0",
     "react-native-snap-carousel": "^3.9.1",
     "react-native-svg": "^12.1.1",
     "react-native-svg-transformer": "^0.14.3",
-    "react-native-vector-icons": "^8.1.0"
+    "react-native-vector-icons": "^8.1.0",
+    "reanimated-bottom-sheet": "^1.0.0-alpha.22"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
