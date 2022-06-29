@@ -1,6 +1,7 @@
 import React from 'react';
 import {
   View,
+  SafeAreaView,
   Text,
   ImageBackground,
   Image,
@@ -16,6 +17,7 @@ import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
 
 const CustomDrawer = props => {
   return (
+    <SafeAreaView style={{flex:1}}>
     <View style={{flex: 1}}>
       <DrawerContentScrollView
         {...props}
@@ -71,6 +73,7 @@ const CustomDrawer = props => {
         </TouchableOpacity>
       </View>
     </View>
+    </SafeAreaView>
   );
 };
 

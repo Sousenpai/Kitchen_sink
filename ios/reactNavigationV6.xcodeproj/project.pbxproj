@@ -8,35 +8,23 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* reactNavigationV6Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* reactNavigationV6Tests.m */; };
-		09251367D7F642B0A5CE19A4 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 23CF43A908034E89B4C8A302 /* Fontisto.ttf */; };
-		0B7E0DB518D5449EB03FDDC5 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 32D8DD92025A406690FAD12E /* AntDesign.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		1D40A4B62A714DB18B9F1EAE /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6017E12D78354BC98B929019 /* Roboto-Bold.ttf */; };
 		2E57E20E8A2B41C09630CA09 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D27B9BE680DD42EA8B9087D4 /* Roboto-Medium.ttf */; };
 		3A97B40E86E741DD907463B0 /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7BB5E28EDEB44F494E0000F /* Roboto-Italic.ttf */; };
-		3B46EA4E0D46452384908063 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2EAE6E5FC8174FC49040F6D2 /* Octicons.ttf */; };
-		409E032F7B4D4E97B72909B2 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40915DAA597B411495FCBDB1 /* Zocial.ttf */; };
-		4C724F2043054BBFB25C044B /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0FEE3C29BAA644A58B1B030D /* MaterialIcons.ttf */; };
-		4E99E61841A54483AFAB3428 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FE14BD3FAE474D1CBC158BB0 /* Entypo.ttf */; };
-		5F2E83853A254D9DA38A83AF /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F35D83DDB8414FBEA7188B53 /* Ionicons.ttf */; };
 		68CEA7D16597D98BCC4DCB0E /* libPods-reactNavigationV6-reactNavigationV6Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 67B289B0C75B6E67397D8749 /* libPods-reactNavigationV6-reactNavigationV6Tests.a */; };
-		76ADCA787E1F4660BFDCE85E /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB3E65E77ED04DC1945D8A7B /* FontAwesome5_Regular.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		89053C614C6D4624A552A239 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F687282B5BB473B83B6DDFF /* EvilIcons.ttf */; };
-		8B5503BFEAE74FEDA9A4D121 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 20570C6D390947E68C7F87EF /* FontAwesome5_Brands.ttf */; };
 		9127F07922B545AF83F8C6C5 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1CAA2908817443F191BA1415 /* Roboto-Regular.ttf */; };
-		976B25D35A8440058B7753C3 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AEE537D1851B4EAC9B286664 /* MaterialCommunityIcons.ttf */; };
-		9E8E214C91944E47816B915D /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8E9C6F6F08204E95A78A489F /* SimpleLineIcons.ttf */; };
 		A0DDDFFBECDA402291F3A573 /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 115292E6A03142B1BFF153C4 /* Roboto-MediumItalic.ttf */; };
-		A6A41CFB60C04EA1B20827DE /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96DB142D18C6484BBAFFE89C /* Feather.ttf */; };
-		DBC4DF95A580415899F3A901 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EC5DB41217194F198DD940CE /* Foundation.ttf */; };
-		DCBE38D5291345E1856B25F5 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F83DD46E8B1F4F7FA4DE3189 /* FontAwesome.ttf */; };
 		E3625B7540F745F18919643D /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F1C74450C4CA49829C99928B /* Inter-Bold.ttf */; };
 		E8B6EC0454874FF494AC16CF /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3111CFE729984AB690317E1D /* Roboto-BoldItalic.ttf */; };
+		F849890B286B1D11006C3BDA /* GoogleService-Info (2).plist in Resources */ = {isa = PBXBuildFile; fileRef = F849890A286B1D11006C3BDA /* GoogleService-Info (2).plist */; };
+		F849890C286B1D11006C3BDA /* GoogleService-Info (2).plist in Resources */ = {isa = PBXBuildFile; fileRef = F849890A286B1D11006C3BDA /* GoogleService-Info (2).plist */; };
+		F8498910286B1DFB006C3BDA /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = F849890F286B1DFB006C3BDA /* FirebaseAnalytics */; };
+		F8498912286B1DFB006C3BDA /* FirebaseAnalyticsWithoutAdIdSupport in Frameworks */ = {isa = PBXBuildFile; productRef = F8498911286B1DFB006C3BDA /* FirebaseAnalyticsWithoutAdIdSupport */; };
 		F9EB485C9AFE7BD0511DCBC2 /* libPods-reactNavigationV6.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 154252E5906C17DC2DBAC3C8 /* libPods-reactNavigationV6.a */; };
-		FFAE343D848D426A843F5044 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F692E689A6E47C9AD3ACA99 /* FontAwesome5_Solid.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,6 +76,8 @@
 		F1C74450C4CA49829C99928B /* Inter-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Bold.ttf"; path = "../src/assets/fonts/Inter-Bold.ttf"; sourceTree = "<group>"; };
 		F35D83DDB8414FBEA7188B53 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		F83DD46E8B1F4F7FA4DE3189 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		F849890A286B1D11006C3BDA /* GoogleService-Info (2).plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info (2).plist"; path = "../../../../Downloads/GoogleService-Info (2).plist"; sourceTree = "<group>"; };
+		F849890D286B1D1C006C3BDA /* GoogleService-Info (2).plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info (2).plist"; sourceTree = "<group>"; };
 		FB3E65E77ED04DC1945D8A7B /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
 		FE14BD3FAE474D1CBC158BB0 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -105,6 +95,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8498910286B1DFB006C3BDA /* FirebaseAnalytics in Frameworks */,
+				F8498912286B1DFB006C3BDA /* FirebaseAnalyticsWithoutAdIdSupport in Frameworks */,
 				F9EB485C9AFE7BD0511DCBC2 /* libPods-reactNavigationV6.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -132,6 +124,7 @@
 		13B07FAE1A68108700A75B9A /* reactNavigationV6 */ = {
 			isa = PBXGroup;
 			children = (
+				F849890D286B1D1C006C3BDA /* GoogleService-Info (2).plist */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -192,6 +185,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				F849890A286B1D11006C3BDA /* GoogleService-Info (2).plist */,
 				13B07FAE1A68108700A75B9A /* reactNavigationV6 */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* reactNavigationV6Tests */,
@@ -260,12 +254,17 @@
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
 				CB785F6AAFCCAE487889B73C /* [CP] Embed Pods Frameworks */,
+				6ADEFB2089443ED33D8A11F7 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = reactNavigationV6;
+			packageProductDependencies = (
+				F849890F286B1DFB006C3BDA /* FirebaseAnalytics */,
+				F8498911286B1DFB006C3BDA /* FirebaseAnalyticsWithoutAdIdSupport */,
+			);
 			productName = reactNavigationV6;
 			productReference = 13B07F961A680F5B00A75B9A /* reactNavigationV6.app */;
 			productType = "com.apple.product-type.application";
@@ -296,6 +295,9 @@
 				Base,
 			);
 			mainGroup = 83CBB9F61A601CBA00E9B192;
+			packageReferences = (
+				F849890E286B1DFA006C3BDA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -311,6 +313,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F849890C286B1D11006C3BDA /* GoogleService-Info (2).plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -326,23 +329,8 @@
 				3A97B40E86E741DD907463B0 /* Roboto-Italic.ttf in Resources */,
 				2E57E20E8A2B41C09630CA09 /* Roboto-Medium.ttf in Resources */,
 				A0DDDFFBECDA402291F3A573 /* Roboto-MediumItalic.ttf in Resources */,
+				F849890B286B1D11006C3BDA /* GoogleService-Info (2).plist in Resources */,
 				9127F07922B545AF83F8C6C5 /* Roboto-Regular.ttf in Resources */,
-				0B7E0DB518D5449EB03FDDC5 /* AntDesign.ttf in Resources */,
-				4E99E61841A54483AFAB3428 /* Entypo.ttf in Resources */,
-				89053C614C6D4624A552A239 /* EvilIcons.ttf in Resources */,
-				A6A41CFB60C04EA1B20827DE /* Feather.ttf in Resources */,
-				DCBE38D5291345E1856B25F5 /* FontAwesome.ttf in Resources */,
-				8B5503BFEAE74FEDA9A4D121 /* FontAwesome5_Brands.ttf in Resources */,
-				76ADCA787E1F4660BFDCE85E /* FontAwesome5_Regular.ttf in Resources */,
-				FFAE343D848D426A843F5044 /* FontAwesome5_Solid.ttf in Resources */,
-				09251367D7F642B0A5CE19A4 /* Fontisto.ttf in Resources */,
-				DBC4DF95A580415899F3A901 /* Foundation.ttf in Resources */,
-				5F2E83853A254D9DA38A83AF /* Ionicons.ttf in Resources */,
-				976B25D35A8440058B7753C3 /* MaterialCommunityIcons.ttf in Resources */,
-				4C724F2043054BBFB25C044B /* MaterialIcons.ttf in Resources */,
-				3B46EA4E0D46452384908063 /* Octicons.ttf in Resources */,
-				9E8E214C91944E47816B915D /* SimpleLineIcons.ttf in Resources */,
-				409E032F7B4D4E97B72909B2 /* Zocial.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -400,6 +388,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-reactNavigationV6-reactNavigationV6Tests/Pods-reactNavigationV6-reactNavigationV6Tests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6ADEFB2089443ED33D8A11F7 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-reactNavigationV6/Pods-reactNavigationV6-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-reactNavigationV6/Pods-reactNavigationV6-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-reactNavigationV6/Pods-reactNavigationV6-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		CB785F6AAFCCAE487889B73C /* [CP] Embed Pods Frameworks */ = {
@@ -765,6 +770,30 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F849890E286B1DFA006C3BDA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F849890F286B1DFB006C3BDA /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F849890E286B1DFA006C3BDA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		F8498911286B1DFB006C3BDA /* FirebaseAnalyticsWithoutAdIdSupport */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F849890E286B1DFA006C3BDA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalyticsWithoutAdIdSupport;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
 }
